@@ -1,0 +1,8 @@
+= Title
+== Author
+
+Summary
+
+Maths:
+latexmath:[(a \circ b) \ast (c \circ d) = (a \ast c) \circ (b \ast d)]
+ddddd
