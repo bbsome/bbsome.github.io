@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Short Simple Blunt]]></title><description><![CDATA[SSB review of chosen Machine Learning papers.]]></description><link>https://bbsome.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 03 Sep 2016 15:58:01 GMT</lastBuildDate><atom:link href="https://bbsome.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Title]]></title><description><![CDATA[<div class="paragraph">
+<p>Summary</p>
+</div>
+<div class="paragraph">
+<p>Maths:
+\((a \circ b) \ast (c \circ d) = (a \ast c) \circ (b \ast d)\)
+ddddd</p>
+</div>]]></description><link>https://bbsome.github.io/2016/09/03/Title.html</link><guid isPermaLink="true">https://bbsome.github.io/2016/09/03/Title.html</guid><pubDate>Sat, 03 Sep 2016 00:00:00 GMT</pubDate></item></channel></rss>
