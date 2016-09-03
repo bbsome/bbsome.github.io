@@ -4,7 +4,12 @@
     "repositoryName": "bbsome.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Short Simple Blunt",
+    "description": "Short, simple and blunt descriptions of chose papers in Machine Learning."
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
