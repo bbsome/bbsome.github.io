@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Short Simple Blunt]]></title><description><![CDATA[SSB review of chosen Machine Learning papers.]]></description><link>https://bbsome.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 03 Sep 2016 16:03:47 GMT</lastBuildDate><atom:link href="https://bbsome.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Title2]]></title><description><![CDATA[<div class="paragraph">
-<p>Summary</p>
-</div>
-<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Short Simple Blunt]]></title><description><![CDATA[SSB review of chosen Machine Learning papers.]]></description><link>https://bbsome.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 03 Sep 2016 16:11:09 GMT</lastBuildDate><atom:link href="https://bbsome.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Title me]]></title><description><![CDATA[<div class="paragraph">
 <p>Das
 is
 heine shculeder</p>
@@ -10,13 +7,9 @@ heine shculeder</p>
 <p>stem: [sqrt(4) = 2]</p>
 </div>
 <div class="paragraph">
-<p>Samuel LL Jackson</p>
-</div>
-<div class="paragraph">
-<p>\((a \circ b) \ast (c \circ d) = (a \ast c) \circ (b \ast d)\)</p>
-</div>
-<div class="paragraph">
-<p>&lt;div class="content"&gt;
+<p>Samuel LL Jackson
+\((a \circ b) \ast (c \circ d) = (a \ast c) \circ (b \ast d)\)
+&lt;div class="content"&gt;
 \[(a \circ b) \ast (c \circ d) = (a \ast c) \circ (b \ast d),\]
 &lt;/div&gt;
 \$sqrt(4) = 2\$</p>
@@ -56,4 +49,4 @@ is something we all learn in Calculus</p>
 <p>\(C = \alpha + \beta Y^{\gamma} + \epsilon\)</p>
 </div>
 </div>
-</div>]]></description><link>https://bbsome.github.io/2016/09/03/Title2.html</link><guid isPermaLink="true">https://bbsome.github.io/2016/09/03/Title2.html</guid><pubDate>Sat, 03 Sep 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://bbsome.github.io/2016/09/03/Title-me.html</link><guid isPermaLink="true">https://bbsome.github.io/2016/09/03/Title-me.html</guid><pubDate>Sat, 03 Sep 2016 00:00:00 GMT</pubDate></item></channel></rss>
